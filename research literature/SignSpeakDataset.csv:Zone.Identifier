@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://dataverse.harvard.edu/
+HostUrl=https://dvn-cloud.s3.amazonaws.com/10.7910/DVN/ODY7GH/19050e52fdd-6448c62b2755.orig?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27SignSpeakDataset.csv&response-content-type=text%2Fcsv&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250601T184450Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIEJ3NV7UYCSRJC7A%2F20250601%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=77a98d4f5e163b54477dca8186447ad3729abc2e9ba1db874cf31ed94a0d4bf9
