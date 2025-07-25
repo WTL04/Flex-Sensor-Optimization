@@ -23,3 +23,6 @@ The fusion integrates predictions and uncertainties from the following regressio
 - Random Forest Regressor  
 - XGBoost Regressor  
 - Gaussian Process Regression
+
+## Visualization 
+![heatmap of model weights](/images/uncertainty_heatmap.png)
